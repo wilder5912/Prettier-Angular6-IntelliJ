@@ -4,7 +4,7 @@ prettier with intellij
 In this url you could see how to use the prettier
 https://blog.jetbrains.com/webstorm/2018/03/webstorm-2018-1/
 
-to order code you need Ctrl-Alt-Shift-p
+To order code you need Ctrl-Alt-Shift-p
 
 yarn add prettier --dev --exact
 # or globally
