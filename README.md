@@ -1,7 +1,7 @@
 # PrettierAngular6
 
 This project use prettier with IntelliJ IDEA 2018.2.4 x64
-Install Prettier plugin in the IntelliJ como 
+Install Prettier plugin in the IntelliJ 
 prettier with intellij
 In this url you could see how to use the prettier
 https://blog.jetbrains.com/webstorm/2018/03/webstorm-2018-1/
